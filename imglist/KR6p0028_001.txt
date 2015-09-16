@@ -1,0 +1,5 @@
+001-0910c00	X 001-0910c	buddhist/X-xuzang/X22/09/X22-0910.png
+001-0911a00	X 001-0911a	buddhist/X-xuzang/X22/09/X22-0911.png
+001-0911b00	X 001-0911b	buddhist/X-xuzang/X22/09/X22-0911.png
+001-0911c00	X 001-0911c	buddhist/X-xuzang/X22/09/X22-0911.png
+001-0912a00	X 001-0912a	buddhist/X-xuzang/X22/09/X22-0912.png
